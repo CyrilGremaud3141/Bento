@@ -12,7 +12,7 @@ const CONFIG = {
 
 	// General
 	name: 'Groemo',
-	imageBackground: true,
+	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
@@ -25,7 +25,7 @@ const CONFIG = {
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
-	// theme: 'Catpuccin'
+	theme: 'Catpuccin'
 	// Autochange
 	autoChangeTheme: false,
 
