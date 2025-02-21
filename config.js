@@ -25,7 +25,7 @@ const CONFIG = {
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
-	// theme: 'latte-mocha'
+	theme: 'latte-mocha'
 	// Autochange
 	autoChangeTheme: false,
 
