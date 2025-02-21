@@ -35,7 +35,7 @@ const CONFIG = {
 	defaultLatitude: '37.775',
 	defaultLongitude: '-122.419',
 
-	theme: 'Catpuccin'
+	// theme: 'Catpuccin'
 	// Autochange
 	autoChangeTheme: false,
 
