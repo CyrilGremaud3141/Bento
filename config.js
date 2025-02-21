@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'Groemo',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -35,11 +35,12 @@ const CONFIG = {
 	defaultLatitude: '37.775',
 	defaultLongitude: '-122.419',
 
+	theme: 'Catpuccin'
 	// Autochange
-	autoChangeTheme: true,
+	autoChangeTheme: false,
 
 	// Autochange by OS
-	changeThemeByOS: true,
+	changeThemeByOS: false,
 
 	// Autochange by hour options (24hrs format, string must be in: hh:mm)
 	changeThemeByHour: false,
