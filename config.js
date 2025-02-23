@@ -25,7 +25,7 @@ const CONFIG = {
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
-	theme: 'Catppuccin'
+	// theme: 'Catppuccin'
 	// Autochange
 	autoChangeTheme: false,
 
